@@ -56,7 +56,7 @@ The AI is deliberately the **shortest** part of the experience. The main event h
 
 ## Code
 
-GitHub: https://github.com/guunda/GrassQuest
+{% github your-username/grassquest-ai %}
 
 ### Project Repository Structure
 - `frontend/`: React 18 + Vite + Lucide React + Custom Nature-Inspired Glassmorphic CSS System.

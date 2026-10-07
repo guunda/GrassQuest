@@ -1,0 +1,13 @@
+{
+    // VS Code launch configuration for GrassQuest AI
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch GrassQuest AI Web App",
+            "url": "http://localhost:5173",
+            "webRoot": "${workspaceFolder}/grassquest-ai/frontend"
+        }
+    ]
+}
